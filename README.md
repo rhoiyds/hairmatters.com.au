@@ -1,8 +1,6 @@
 #Purpose
 The website for the Port Macquarie based hairdressing salon Hairmatters.
-[https://www.hairmatters.com.au/](https://www.hairmatters.com.au/)
-Code is public due to having no sensitive data. Please feel free to draw inspriation from this.
-
+[GitHub Pages preview](https://rhoiyds.github.io/hairmatters.com.au/)
 
 #Credits
 AJ
